@@ -1,2 +1,3 @@
 # Number-1
-This is basically a first-run, really entry-level zone for my self-education experiments
+This is basically a first-run, really entry-level zone for my self-education experiments. 
+I hope to not lose faith....
